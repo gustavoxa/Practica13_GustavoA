@@ -1,0 +1,2 @@
+Las concluciones, reocmendacione sy preguntas se encuentra en el archivo 
+main de contador
